@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\forloop-break-continue\bin\Debug\net8.0\forloop-break-continue.exe
+C:\Users\sumey\Source\repos\forloop-break-continue\bin\Debug\net8.0\forloop-break-continue.deps.json
+C:\Users\sumey\Source\repos\forloop-break-continue\bin\Debug\net8.0\forloop-break-continue.runtimeconfig.json
+C:\Users\sumey\Source\repos\forloop-break-continue\bin\Debug\net8.0\forloop-break-continue.dll
+C:\Users\sumey\Source\repos\forloop-break-continue\bin\Debug\net8.0\forloop-break-continue.pdb
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\forloop-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\forloop-break-continue.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\forloop-break-continue.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\forloop-break-continue.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\forloop-break-continue.dll
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\refint\forloop-break-continue.dll
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\forloop-break-continue.pdb
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\forloop-break-continue.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\forloop-break-continue\obj\Debug\net8.0\ref\forloop-break-continue.dll
